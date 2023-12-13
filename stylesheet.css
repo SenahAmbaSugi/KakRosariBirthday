@@ -25,19 +25,19 @@ body {
 
 @-webkit-keyframes peach_alive {
   0% {
-    background-color: #ffdab9;
+    background-color: #bcc9f7;
   }
   25% {
     background-color: #ffe4b5;
   }
   50% {
-    background-color: #ffdab9;
+    background-color: #c8eea6;
   }
   75% {
-    background-color: #ffefd5;
+    background-color: #ffd5fd;
   }
   100% {
-    background-color: #ffdab9;
+    background-color: #c3fae2;
   }
 }
 @-moz-keyframes peach_alive {
