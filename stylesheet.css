@@ -23,6 +23,7 @@ body {
   animation: peach_alive linear 8s infinite;
 }
 
+
 @-webkit-keyframes peach_alive {
   0% {
     background-color: #bcc9f7;
@@ -111,7 +112,6 @@ body {
     background-color: #ffdab9;
   }
 }
-
 .bulb {
   width: 50px;
   height: 50px;
